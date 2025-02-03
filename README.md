@@ -1,6 +1,13 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="30" height="30"> React: Componentes - Avançado
+# <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="30" height="30"> React: Como os componentes funcionam
 
-Desenvolvido durante o curso avançado de criação de componentes em React, na Escola de Tecnologia Alura como parte da formação em React.
+Desenvolvido durante o curso sobre como funcionam os componentes em React, na Escola de Tecnologia Alura como parte da formação em React.
+
+## Principais Tópicos
+
+- `O que são dependências e como instalar`
+- `Como o React vê um componente, seus props e states`
+- `Como criar novas features e refatoração de código`
+- `O que é one-way data binding, e o que isto tem a ver com VirtualDOM`
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
